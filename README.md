@@ -11,4 +11,15 @@
 - [ ] Layout data
 
 ## Headers and cookies
-TODO...
+- [ ] Setting headers
+- [ ] Reading and writing cookies
+
+## Shared modules
+- [ ] $lib alias
+
+## Forms
+- [ ] <form> element
+- [ ] Named form actions
+- [ ] Validation
+- [ ] Progressive enahncement
+- [ ] Customizing use+enhance
