@@ -1,11 +1,12 @@
-import { posts } from "./data.js";
+import { data } from "./data.js";
 
 export function load() {
   return {
-    summaries: posts.map((post) => (
+    summaries: data.map((post) => (
       {
-        slug: post.slug,
-        title: post.title
+        id: post.id,
+        title: post.title,
+        slug: post.slug
       }
     ))
   };
