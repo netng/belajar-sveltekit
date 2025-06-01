@@ -8,7 +8,7 @@
 
 ## Loading data
 - [x] Page data
-- [] Layout data
+- [ ] Layout data
 
 ## Headers and cookies
 TODO...
